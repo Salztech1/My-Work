@@ -1,0 +1,76 @@
+.bg-blue {
+    background-color: rgb(21, 21, 243);
+}
+
+.bg-dblue {
+    background-color: rgb(7, 29, 36);
+}
+
+.mleft {
+    margin-left: 60%;
+}
+
+.div1 {
+    background-image: url(./Image/background.jpg);
+}
+
+.btnr {
+    border-radius: 3%;
+}
+
+.visit:hover {
+    background-color: rgb(142, 199, 11);
+}
+
+.font-size {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.font-size1 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p {
+    font-size: 20px;
+}
+
+.color {
+    background-color: aqua;
+}
+
+.color-l {
+    color: rgba(116, 233, 7, 0.897);
+}
+
+.padding {
+    padding-top: 0.5%;
+}
+
+.mar {
+    border-radius: 20px;
+}
+.font-size2{font-size: 20px;}
+
+
+
+@media all and (max-width:480px) {
+    .size {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .margin {
+        margin-top: 7%;
+    }
+
+    .padding {
+        padding-top: 1.5%;
+    }
+
+}
