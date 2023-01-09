@@ -51,7 +51,64 @@
 .mar {
     border-radius: 20px;
 }
-.font-size2{font-size: 20px;}
+
+.font-size2 {
+    font-size: 25px;
+}
+
+.input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(138, 162, 185);
+    outline: none;
+    box-shadow: none;
+}
+
+.border1 {
+    border: 5px solid rgb(138, 162, 185);
+}
+
+.ma {
+    margin-left: 70%;
+}
+
+.mbut {
+    margin-bottom: 10%;
+}
+
+.line {
+    width: 100%;
+}
+
+.center-1 {
+    text-align: center;
+}
+
+.pa {
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.font-size3 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-grey {
+    color: grey;
+}
+
+.ma1 {
+    margin-left: 30%;
+}
+
+.text-size {
+    font-size: small;
+}
+
+.bg-green {
+    color: rgb(142, 199, 11);
+}
 
 
 
@@ -71,6 +128,14 @@
 
     .padding {
         padding-top: 1.5%;
+    }
+
+    .bd {
+        border: 2px;
+    }
+
+    .line-s {
+        width: 100%;
     }
 
 }
